@@ -1,0 +1,5 @@
+com\qa\hubspot\page\HomePage.class
+com\qa\hubspot\util\Utilclass.class
+com\qa\hubspot\basefile\BasePage.class
+com\qa\hubspot\page\ContactsPage.class
+com\qa\hubspot\page\LoginPage.class
